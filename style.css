@@ -58,6 +58,7 @@ iframe#tela {
     position:relative;
     top: 31px;
     left: 11.7px;
+    height: 53vh;
     height: 565px;
     width: 248px;
     border-radius: 30px 30px 23px 23px;
